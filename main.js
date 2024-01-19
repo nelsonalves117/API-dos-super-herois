@@ -1,5 +1,5 @@
 const BASE_URL = 'https://superheroapi.com/api.php';
-const API_KEY = '7112120608852381';
+const API_KEY = '';
 
 function getRandom() {
     return Math.floor(Math.random() * 731) + 1;
